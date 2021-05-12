@@ -1,5 +1,4 @@
-
-
+# react-app-song-details-first-redux-app
 
 
 Check it out Live at: https://react-app-song-details-first-redux-app.netlify.app/
